@@ -10,15 +10,20 @@ export function addLineNumber(arr) {
   return editArr;
 }
 
-export function showValue(value, type) {
+xport function showValue(value, type) {
   if (type === "Date") {
-    const date = new Date(value);
-    return (
-      date.getDate().toString() +
-      "-" +
-      (date.getMonth() + 1).toString() +
-      "-" +
-      date.getFullYear().toString()
-    );
+    if (value === "NULL") {
+      return "-"
+    } else {
+      const date = new Date(value);
+      return (
+        date.getDate().toString() +
+        "-" +
+        (date.getMonth() + 1).toString() +
+        "-" +
+        date.getFullYear().toString()
+      );
+    }
+    
   } else return value;
 }
