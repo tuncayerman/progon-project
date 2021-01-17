@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/progon-project/static/css/main.5fded64c.chunk.css",
+    "main.js": "/progon-project/static/js/main.6de7dade.chunk.js",
+    "main.js.map": "/progon-project/static/js/main.6de7dade.chunk.js.map",
+    "runtime-main.js": "/progon-project/static/js/runtime-main.f3c41a74.js",
+    "runtime-main.js.map": "/progon-project/static/js/runtime-main.f3c41a74.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/progon-project/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ad21a4e5.chunk.js": "/progon-project/static/js/2.ad21a4e5.chunk.js",
+    "static/js/2.ad21a4e5.chunk.js.map": "/progon-project/static/js/2.ad21a4e5.chunk.js.map",
+    "static/js/3.57ef0107.chunk.js": "/progon-project/static/js/3.57ef0107.chunk.js",
+    "static/js/3.57ef0107.chunk.js.map": "/progon-project/static/js/3.57ef0107.chunk.js.map",
+    "index.html": "/progon-project/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/progon-project/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.5fded64c.chunk.css.map": "/progon-project/static/css/main.5fded64c.chunk.css.map",
+    "static/js/2.ad21a4e5.chunk.js.LICENSE.txt": "/progon-project/static/js/2.ad21a4e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3c41a74.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.ad21a4e5.chunk.js",
+    "static/css/main.5fded64c.chunk.css",
+    "static/js/main.6de7dade.chunk.js"
+  ]
+}
