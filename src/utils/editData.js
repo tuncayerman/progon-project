@@ -10,7 +10,7 @@ export function addLineNumber(arr) {
   return editArr;
 }
 
-xport function showValue(value, type) {
+export function showValue(value, type) {
   if (type === "Date") {
     if (value === "NULL") {
       return "-"
