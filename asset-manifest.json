@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/progon-project/static/css/main.5fded64c.chunk.css",
-    "main.js": "/progon-project/static/js/main.6de7dade.chunk.js",
-    "main.js.map": "/progon-project/static/js/main.6de7dade.chunk.js.map",
+    "main.js": "/progon-project/static/js/main.132f9636.chunk.js",
+    "main.js.map": "/progon-project/static/js/main.132f9636.chunk.js.map",
     "runtime-main.js": "/progon-project/static/js/runtime-main.f3c41a74.js",
     "runtime-main.js.map": "/progon-project/static/js/runtime-main.f3c41a74.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/progon-project/static/css/2.20aa2d7b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.ad21a4e5.chunk.js",
     "static/css/main.5fded64c.chunk.css",
-    "static/js/main.6de7dade.chunk.js"
+    "static/js/main.132f9636.chunk.js"
   ]
 }
