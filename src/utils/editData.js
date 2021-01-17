@@ -13,7 +13,7 @@ export function addLineNumber(arr) {
 export function showValue(value, type) {
   if (type === "Date") {
     if (value === "NULL") {
-      return "-"
+      return "---"
     } else {
       const date = new Date(value);
       return (
